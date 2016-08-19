@@ -1,3 +1,5 @@
+some test
+
 libMesh-specific configuration options
 ======================================
 
